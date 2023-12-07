@@ -28,21 +28,25 @@
   "Categories": [
     {
       "id": 1,
+      "image_name": "Nature",
       "name": "Nature",
       "url": "https://w0.peakpx.com/wallpaper/2/755/HD-wallpaper-nature-beautiful.jpg"
     },
     {
       "id": 2,
+      "image_name": "Anime",
       "name": "Anime",
       "url": "https://i.pinimg.com/564x/cf/df/6c/cfdf6c1108b1bc9b601c144668dd1657.jpg"
     },
     {
       "id": 3,
+      "image_name": "Cars",
       "name": "Cars",
       "url": "https://w0.peakpx.com/wallpaper/464/263/HD-wallpaper-thar-car-wagon-wrangler.jpg"
     },
     {
       "id": 4,
+      "image_name": "Bike",
       "name": "Bike",
       "url": "https://i.pinimg.com/564x/90/1e/24/901e24ca4642a79ca5c83e84223e3e0a.jpg"
     }
