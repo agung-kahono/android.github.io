@@ -9,10 +9,14 @@
   ],
   "Ads": [
     {
-      "bannerID": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "nativeID": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-      "interstialID": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "rewardVideoID": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "fbbannerID": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fbnativeID": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+      "fbinterstialID": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fbrewardVideoID": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "ggbannerID": "ca-app-pub-3940256099942544/6300978111",
+      "ggnativeID": "",
+      "gginterstialID": "",
+      "ggrewardVideoID": ""
     }
   ],
   "More": [
