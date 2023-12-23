@@ -1,4 +1,12 @@
 {
+  "Ads2": [
+    {
+      "bannerID": "",
+      "nativeID": "",
+      "interstialID": "",
+      "rewardVideoID": ""
+    }
+  ],
   "Ads": [
     {
       "bannerID": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
