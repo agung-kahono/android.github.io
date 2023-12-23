@@ -1,10 +1,14 @@
 {
   "Ads2": [
     {
-      "bannerID": "",
-      "nativeID": "",
-      "interstialID": "",
-      "rewardVideoID": ""
+      "ggbannerID": "",
+      "ggnativeID": "",
+      "gginterstialID": "",
+      "ggrewardVideoID": "",
+      "fbbannerID": "",
+      "fbnativeID": "",
+      "fbinterstialID": "",
+      "fbrewardVideoID": ""
     }
   ],
   "Ads": [
