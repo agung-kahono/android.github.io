@@ -1,5 +1,5 @@
 {
-  "Ads2": [
+  "Ads": [
     {
       "ggbannerID": "",
       "ggnativeID": "",
@@ -11,7 +11,7 @@
       "fbrewardVideoID": ""
     }
   ],
-  "Ads": [
+  "Ads2": [
     {
       "ggbannerID": "ca-app-pub-3940256099942544/6300978111",
       "ggnativeID": "ca-app-pub-3940256099942544/2247696110",
